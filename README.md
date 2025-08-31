@@ -11,7 +11,9 @@
 
 ## 📌 项目索引
 | 项目 | 简介 | 技术点 | 链接 |
+
 | 🛒 电商用户行为分析 | 模拟电商数据分析+可视化仪表盘 | Python, SQL, Tableau | [GitHub](https://github.com/eluvm/ecommerce-data-analysis) |
+
 | 📈 用户增长实验设计 | 模拟社群召回策略与A/B实验 | SQL, Python, AARRR | [GitHub](https://github.com/eluvm/growth-experiment-ops) |
 
 📬 **联系方式**：邮箱：liangaw1928@163.com
